@@ -1,4 +1,11 @@
-# X_collector
+# how to analyze PDF report
+https://github.com/eLi1a/X_colloctor/blob/main/report_analysis_readMe.md
+
+# how to analyze X posts after collection
+https://github.com/eLi1a/X_colloctor/blob/main/X_analysis_readMe.md
+
+----
+# how to use X_collector
 
 Scripts to collect and process X (Twitter) posts for a University of Eastern Finland (UEF) research project.
 
